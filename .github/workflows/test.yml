@@ -4,5 +4,5 @@ jobs:
   print-hellow-word:
     runs-on: ubuntu-latest
     steps:
-      -run: echo "hello world!!!!!"
-      -run: echo "this is step number 2"
+      - run: echo "hello world!!!!!"
+      - run: echo "this is step number 2"
